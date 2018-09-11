@@ -1,0 +1,15 @@
+{
+    "name": "Upload By U R L",
+    "description": "Upload by URL",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Anatox"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
